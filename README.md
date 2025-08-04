@@ -60,4 +60,3 @@ This project is built with:
 ## 🚀 Deployment
 
 To publish your project, use your preferred hosting or deployment method.
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
